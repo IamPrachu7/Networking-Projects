@@ -49,7 +49,7 @@ After completing this project, students will understand:
 
 ## 🔄 Version History
 
-- **v1.0** (December 2024): Initial release with basic DHCP and static IP configuration
+- **v1.0** (September 2025): Initial release with basic DHCP and static IP configuration
 - Future versions will include additional services (Web, FTP, DNS)
 
 ## 📞 Support
