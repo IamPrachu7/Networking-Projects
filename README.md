@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Networking Projects Collection
 
 A comprehensive collection of networking projects and labs designed for learning and professional development in computer networking.
@@ -94,3 +95,7 @@ December 2024
 ---
 
 **Happy Learning! 🎓**
+=======
+# Networking-Projects
+This repository contains multiple **networking projects** for learning and practice,  covering both **Cisco Packet Tracer** and **MikroTik RouterOS**.
+>>>>>>> bac8f1815f05a464320b51c6589db391df90591e
