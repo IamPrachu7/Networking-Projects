@@ -33,7 +33,7 @@ Networking-Projects/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/IamPrachu7/Networking-Projects?tab=readme-ov-file)>
    cd Networking-Projects
    ```
 
@@ -90,7 +90,7 @@ If you encounter any issues or have questions:
 
 ## 📅 Last Updated
 
-December 2024
+September 2025
 
 ---
 
