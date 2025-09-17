@@ -1,0 +1,51 @@
+# Networking Projects - .gitignore
+
+# Cisco Packet Tracer files
+*.pkt
+*.pka
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Archive files (unless specifically needed)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Personal notes (if any)
+notes.txt
+personal/
+private/
+
+# Large media files (unless essential for documentation)
+*.mp4
+*.avi
+*.mov
+*.mkv
